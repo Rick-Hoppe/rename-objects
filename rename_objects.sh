@@ -2,8 +2,6 @@
 #
 ################################################################################
 #
-# Rename Objects v0.2 (08-04-2020)
-#
 # MIT License
 #
 # Copyright (c) 2020 Rick Hoppe
@@ -25,6 +23,8 @@
 # LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
+#
+# Rename Objects v0.2 (08-04-2020)
 #
 # v0.1 Initial version
 # v0.2 Added dos2unix to remove Windows formatting
