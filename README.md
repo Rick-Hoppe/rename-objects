@@ -4,3 +4,5 @@ Bash script for bulk renaming of objects using a CSV file and the Check Point Ma
 # Version history
 v0.1 Initial version  
 v0.2 Added dos2unix to remove Windows formatting  
+  
+This project is licensed under the terms of the MIT license.  
