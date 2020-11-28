@@ -3,7 +3,9 @@
 ################################################################################
 #
 # Rename Objects v0.2 (08-04-2020)
-# Created by Rick Hoppe
+#
+# Copyright (c) 2020 Rick Hoppe
+# Distributed under the MIT license
 #
 # v0.1 Initial version
 # v0.2 Added dos2unix to remove Windows formatting
